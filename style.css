@@ -1,0 +1,31 @@
+html, body {
+	background: #B5BAD0;
+	font-family: arial;
+	font-size: 16px;
+	color: #000;
+	border:30px solid #77625C; 
+}
+p {
+	line-height: 1.4em;
+	margin-bottom: 20px color: #77625C;
+}
+#cv {
+	width: 90%;
+	max-width: 700px;
+	margin: 30px auto;
+	background: 77625C;
+}
+h1 {
+	font-size: 20px;
+	padding: 20px;
+	border-bottom: 1px solid #77625C;
+}
+h2 {
+	font-size: 18px;
+	padding:20px solid #77625C;
+}
+
+
+
+
+
